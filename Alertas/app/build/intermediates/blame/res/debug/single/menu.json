@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jgomez/AndroidStudioProjects/Alertas/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/jgomez/AndroidStudioProjects/Alertas/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/jgomez/AndroidStudioProjects/Alertas/app/build/intermediates/res/merged/debug/menu/alerta.xml",
+        "source": "/home/jgomez/AndroidStudioProjects/Alertas/app/src/main/res/menu/alerta.xml"
+    }
+]

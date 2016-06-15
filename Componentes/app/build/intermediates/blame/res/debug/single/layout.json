@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jgomez/AndroidStudioProjects/Componentes/app/build/intermediates/res/merged/debug/layout/activity_bienvenido.xml",
+        "source": "/home/jgomez/AndroidStudioProjects/Componentes/app/src/main/res/layout/activity_bienvenido.xml"
+    },
+    {
+        "merged": "/home/jgomez/AndroidStudioProjects/Componentes/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/jgomez/AndroidStudioProjects/Componentes/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jgomez/AndroidStudioProjects/Componentes/app/build/intermediates/res/merged/debug/layout/activity_menu.xml",
+        "source": "/home/jgomez/AndroidStudioProjects/Componentes/app/src/main/res/layout/activity_menu.xml"
+    }
+]
