@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jgomez/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/jgomez/AndroidStudioProjects/Archivos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_ff07551db963ef5d7f8cb744e439f830928c1dd8/classes.dex" />
+    </item>
+    <item
+        jar="/home/jgomez/AndroidStudioProjects/Archivos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1582b0180e2e550d7f4d7ef9f1a3e020b91e4155">
+        <dex dex="/home/jgomez/AndroidStudioProjects/Archivos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_43946e42e9b4225431e2536933d4406aa3356e7c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jgomez/AndroidStudioProjects/Archivos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5213daae49f127505ca74574f4a0db061840e9c1">
+        <dex dex="/home/jgomez/AndroidStudioProjects/Archivos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24552f9dc658d17cdd4d6fea3797bc5dbdff4fec/classes.dex" />
+    </item>
+
+</items>
