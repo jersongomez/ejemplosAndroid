@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jgomez/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/jgomez/AndroidStudioProjects/ArchivosJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_b3d193b250fa154935e3ffda95c62942060e9723/classes.dex" />
+    </item>
+    <item
+        jar="/home/jgomez/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/jgomez/AndroidStudioProjects/ArchivosJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_ff07551db963ef5d7f8cb744e439f830928c1dd8/classes.dex" />
+    </item>
+    <item
+        jar="/home/jgomez/AndroidStudioProjects/ArchivosJSON/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="710214248c5e6069f2d41cc66e6ab0449f688df0">
+        <dex dex="/home/jgomez/AndroidStudioProjects/ArchivosJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37285028ba4fc30c187723372b96344e1eb3691d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jgomez/AndroidStudioProjects/ArchivosJSON/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bde610d0249e213cb315624f33a981065fd7373">
+        <dex dex="/home/jgomez/AndroidStudioProjects/ArchivosJSON/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29baa19376b02883d58013d53c57c0a70a6025b3/classes.dex" />
+    </item>
+
+</items>
